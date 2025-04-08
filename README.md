@@ -1,4 +1,4 @@
-# 2025barfield
+# About Me
 
 Hello, I'm Jessica. Data Analyst and epidemiologist.
 
@@ -9,13 +9,13 @@ Hello, I'm Jessica. Data Analyst and epidemiologist.
 
 
 
-📚 Projects
+# 📚 Projects
 
 Welcome to my portfolio, where I showcase my projects.
 
 
 
-🛠️ Tools
+# 🛠️ Tools
 
 - Language: SQL, R
 - Database: MySQL
@@ -23,6 +23,6 @@ Welcome to my portfolio, where I showcase my projects.
 
 
 
-👋🏻 Connect with Me
+# 👋🏻 Connect with Me
 
 [Linkedin](http://www.linkedin.com/in/jessicabarfieldmph)
