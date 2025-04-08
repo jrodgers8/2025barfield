@@ -16,4 +16,5 @@ Database: MySQL
 Visualization: Power BI, Databricks, Excel, Visio
 
 👋🏻 Connect with Me
+
 [Linkedin](http://www.linkedin.com/in/jessicabarfieldmph)
