@@ -1,6 +1,11 @@
 ## About Me
 
-Hello, I'm Jessica. Data Analyst and epidemiologist.
+Hello, I'm Jessica. Data Analyst and epidemiologist. Los Angeles based.
+
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my projects.
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
@@ -8,14 +13,7 @@ Hello, I'm Jessica. Data Analyst and epidemiologist.
 - Data analysis and reporting using Databricks, Excel.
 
 
-
-## 📚 Projects
-
-Welcome to my portfolio, where I showcase my projects.
-
-
-
-## 🛠️ Tools
+### 🛠️ Tools
 
 - Language: SQL, R
 - Database: MySQL
@@ -23,6 +21,6 @@ Welcome to my portfolio, where I showcase my projects.
 
 
 
-## 👋🏻 Connect with Me
+### 👋🏻 Connect with Me
 
 [Linkedin](http://www.linkedin.com/in/jessicabarfieldmph)
