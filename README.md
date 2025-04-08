@@ -2,10 +2,10 @@
 
 Hello, I'm Jessica. Data Analyst and epidemiologist.
 
-Querying data using SQL.
-Generate reports and perform ad-hoc data analysis using SQL.
-Developing dashboards and visualizations on Power BI, Miro.
-Data analysis and reporting using Databricks, Excel.
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards and visualizations on Power BI, Miro.
+- Data analysis and reporting using Databricks, Excel.
 
 📚 Projects
 
