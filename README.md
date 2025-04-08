@@ -8,9 +8,11 @@ Hello, I'm Jessica. Data Analyst and epidemiologist.
 - Data analysis and reporting using Databricks, Excel.
 
 
+
 📚 Projects
 
 Welcome to my portfolio, where I showcase my projects.
+
 
 
 🛠️ Tools
@@ -18,6 +20,7 @@ Welcome to my portfolio, where I showcase my projects.
 - Language: SQL, R
 - Database: MySQL
 - Visualization: Power BI, Databricks, Excel, Visio
+
 
 
 👋🏻 Connect with Me
