@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm Jessica. Data Analyst and epidemiologist. Los Angeles based.
+Hello, I'm Jessica. Los Angeles-based data analyst and epidemiologist.
 
 
 ### 📚 Projects
